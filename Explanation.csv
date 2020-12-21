@@ -1,0 +1,6 @@
+Attribute, Type, Description
+loan_amnt, Numerical, The listed amount of the loan applied
+term, Numerical (months), The duration of loan or number of payments on the loan
+int_rate, Numerical (percentage), Interest rate on the loan
+installment, Numerical, The monthly payment owed by the borrowed
+grade, Categorical, Assigned loan grade
